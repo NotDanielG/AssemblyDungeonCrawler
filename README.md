@@ -1,2 +1,2 @@
 # AssemblyDungeonCrawler
-Last project for CSE220
+Last assignment for CSE220
