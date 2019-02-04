@@ -1024,11 +1024,3 @@ visit_done:
 lw $s0, ($sp)
 addi $sp, $sp, 4
 jr $ra
-
-
-#####################################################################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-##### ANY LINES BEGINNING .data WILL BE DELETED DURING GRADING! #####
-#####################################################################
